@@ -1,0 +1,24 @@
+# Local activity trackers and office documents
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+~$*.xls*
+*.doc
+*.docx
+*.pdf
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime and dependency folders
+node_modules/
+dist/
+build/
+coverage/
+.env
+.env.*
+
